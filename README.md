@@ -2,7 +2,7 @@
 
 ## 2008 Macbook Air
 
-![My Image]
+![My Image](2008.png)
 
 Processor: Penryn-3M Intel Core 2 Duo (T8300)
 
